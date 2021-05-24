@@ -4,15 +4,15 @@
  Um simples jogo de clique feito com pygame, com a tematica principal sendo de macacos e bananas 
  
 # Installing the game:
- First step: Download the compressed zip folder;
- Second step: Extract all of it;
- Third step: Run the executable file at the same directory of the two other folders, otherwise it won't work;
- 
- Recomended: Create a shortcut of the exe game file to access the game more easily.
+ First step: Download the compressed zip folder;\
+ Second step: Extract all of it;\
+ Third step: Run the executable file at the same directory of the two other folders, otherwise it won't work;\
+ \
+ Recomended: Create a shortcut of the exe game file to access the game more easily.\
  
  # Instalando o jogo:
- Primeiro passo: Baixe a pasta compactada;
- Segundo passo: Extraia tudo que esta contido na pasta;
- Terceiro passo: Abra o arquivo executável no mesmo diretório das outras duas pastas, se não o jogo não irá rodar corretamente;
+ Primeiro passo: Baixe a pasta compactada;\
+ Segundo passo: Extraia tudo que esta contido na pasta;\
+ Terceiro passo: Abra o arquivo executável no mesmo diretório das outras duas pastas, se não o jogo não irá rodar corretamente;\
  
- Recomendado: Crie um atalho para o arquivo executável do jogo.
+ Recomendado: Crie um atalho para o arquivo executável do jogo.\
