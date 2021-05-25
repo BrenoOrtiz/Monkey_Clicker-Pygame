@@ -1,5 +1,5 @@
 # Monkey_Clicker-Pygame
- A simple clicker game made with pygame, with the main theme being monkeys and bananas
+ A simple clicker game made with pygame, with monkeys and bananas theme
  
  Um simples jogo de clique feito com pygame, com a temática principal sendo de macacos e bananas 
  
