@@ -3,6 +3,9 @@
  
  Um simples jogo de clique feito com pygame, com a tematica principal sendo de macacos e bananas 
  
+ ![image](https://user-images.githubusercontent.com/82238627/119421533-49f85700-bcd5-11eb-8ed0-3056e9592852.png)
+
+ 
 # Installing the game:
  https://github.com/BrenoOrtiz/Monkey_Clicker-Pygame/releases/tag/1.0 \
  First step: Download the compressed zip folder;\
