@@ -7,7 +7,7 @@
 
  
 # Installing the game:
- https://github.com/BrenoOrtiz/Monkey_Clicker-Pygame/releases/download/v.1.0/Monkey_clicker.zip
+ https://github.com/BrenoOrtiz/Monkey_Clicker-Pygame/releases/download/v.1.0/Monkey_clicker.zip \
  First step: Download the compressed zip folder;\
  Second step: Extract all of it;\
  Third step: Run the executable file at the same directory of the two other folders, otherwise it won't work;\
@@ -15,7 +15,7 @@
  Recomended: Create a shortcut of the exe game file to access the game more easily.
  
  # Instalando o jogo:
- https://github.com/BrenoOrtiz/Monkey_Clicker-Pygame/releases/download/v.1.0/Monkey_clicker.zip
+ https://github.com/BrenoOrtiz/Monkey_Clicker-Pygame/releases/download/v.1.0/Monkey_clicker.zip \
  Primeiro passo: Baixe a pasta compactada;\
  Segundo passo: Extraia tudo que esta contido na pasta;\
  Terceiro passo: Abra o arquivo executável no mesmo diretório das outras duas pastas, se não o jogo não irá rodar corretamente;
