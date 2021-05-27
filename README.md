@@ -11,9 +11,9 @@
  
  First step: Download the compressed zip folder;\
  Second step: Extract all of it;\
- Third step: Run the executable file at the same directory of the two other folders, otherwise it won't work;\
+ Third step: Run the executable file at the same directory of the two other folders, otherwise it won't work;
  
- Recomended: Create a shortcut of the exe game file to access the game more easily.\ 
+ Recomended: Create a shortcut of the exe game file to access the game more easily.
  
  OBS: Depending on the type of Antivirus that you have, you might have problems when downloading the game, because some\
  antiviruses see the executable as a harmful file to your computer.
