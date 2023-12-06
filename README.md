@@ -1,7 +1,7 @@
 # Monkey_Clicker-Pygame
- A simple clicker game made with pygame, with monkeys and bananas theme
+ A simple clicker game made with pygame, with monkeys theme
  
- Um simples jogo de clique feito com pygame, com a temática principal sendo de macacos e bananas 
+ Um simples jogo de clique feito com pygame, com a temática principal sendo de macacos 
  
  ![image](https://user-images.githubusercontent.com/82238627/119421533-49f85700-bcd5-11eb-8ed0-3056e9592852.png)
 
@@ -15,7 +15,7 @@
  
  Recomended: Create a shortcut of the exe game file to access the game more easily.
  
- OBS: Depending on the type of Antivirus that you have, you might have problems when downloading the game, because some\
+ OBS: Depending on the type of Antivirus that you have, you might have problems when downloading the game, because some
  antiviruses see the executable as a harmful file to your computer.
  
  ## Instalando o jogo:
